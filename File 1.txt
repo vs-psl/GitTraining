@@ -1,7 +1,7 @@
-This file is garbage.
+This is GIT DEMO file.
 
 class HelloGit {
-main(){
-sysout("Welcome to git!! Hello there.");
-}
+    main(){
+        sysout("Welcome to git!! Hello there.");
+    }
 }
