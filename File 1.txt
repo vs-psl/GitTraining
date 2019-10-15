@@ -1,1 +1,7 @@
 This file is garbage.
+
+class HelloGit {
+main(){
+sysout("Welcome to git!!");
+}
+}
