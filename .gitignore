@@ -1,0 +1,5 @@
+*.class
+*.war
+.temp
+
+# For a folder named ".metadata" use "/.metadata/".
