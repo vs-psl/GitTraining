@@ -1,6 +1,11 @@
 This is GIT DEMO file.
 
 class HelloGit {
+
+    myMethod() {
+        syso("My method!");
+    }
+    
     main(){
         syso("Welcome to git!! Hello there. Welcome to PSL.");
     }
