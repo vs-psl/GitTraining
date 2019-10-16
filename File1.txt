@@ -2,6 +2,6 @@ This is GIT DEMO file.
 
 class HelloGit {
     main(){
-        syso("Welcome to git!! Hello there.");
+        syso("Welcome to git!! Hi there.");
     }
 }
